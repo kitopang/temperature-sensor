@@ -1,3 +1,5 @@
+//Simple code for running a DHT22 sensor
+
 from Tkinter import *
 import time
 import datetime
