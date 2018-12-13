@@ -1,4 +1,7 @@
-//Simple code for running a DHT22 sensor
+# Simple code for running a DHT22 sensor. Utilizes the adafruit_dht repo and Tkinter. 
+# Can display multiple measurements
+# Kito Pang 2018 for Google Science Fair
+
 
 from Tkinter import *
 import time
